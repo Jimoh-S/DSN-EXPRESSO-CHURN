@@ -1,7 +1,13 @@
 # DSN-EXPRESSO-CHURN
 THIS IS A SIMPLE GUIDE ON THE DSN HACKATON ON ZINDI.AFRICA- IT SCORES AMONG THE TOP 40 (TOP  10 PERCENT) OF THE CHLLENGE WITH A SCORE OF "0.247284175133995"
+
 OTHER WAYS TO IMPROVE THE MODELS:
+
 more feature engineering
+
 understanding the missing values
+
+
 preprocessing the data more strictly
+
 stacking etc
